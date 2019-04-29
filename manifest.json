@@ -1,7 +1,7 @@
 {
 
  "short_name": "Twittor",
-  "name": "My Banner ...",
+  "name": "My Pwa Ini...",
   "start_url": "index.html",
   "background_color": "#3498db",
   "display": "standalone",
